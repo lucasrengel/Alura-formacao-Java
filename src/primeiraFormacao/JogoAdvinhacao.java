@@ -1,4 +1,4 @@
-package PrimeiraFormacao;
+package primeiraFormacao;
 
 import java.util.Random;
 import java.util.Scanner;
