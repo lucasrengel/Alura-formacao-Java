@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="primeira formacao concluida">
-      <change afterPath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/JogoAdvinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/JogoAdvinhacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/OutroLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/OutroLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +38,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lucas" />
+        <entry key="$PROJECT_DIR$" value="asd" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -44,10 +61,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/lucas/Faculdade/Code/Java/Alura Formacao Java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -83,8 +101,23 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeira formacao concluida" />
     <option name="LAST_COMMIT_MESSAGE" value="primeira formacao concluida" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
