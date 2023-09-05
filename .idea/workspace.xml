@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="criacao pasta desafio" />
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="primeira formacao concluida">
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundaFormacao/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Condicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/JogoAdvinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/JogoAdvinhacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Leitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/OutroLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/OutroLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeiraFormacao/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiraFormacao/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMatch/SegundaFormacao/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/lucas/Faculdade/Code/Java/Alura Formacao Java",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
@@ -80,31 +98,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693710931897</updated>
     </task>
-    <task id="LOCAL-00003" summary="a">
-      <option name="closed" value="true" />
-      <created>1693880828690</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1693880828690</updated>
-    </task>
-    <task id="LOCAL-00004" summary="a">
-      <option name="closed" value="true" />
-      <created>1693880840653</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1693880840653</updated>
-    </task>
-    <task id="LOCAL-00005" summary="criacao pasta desafio">
-      <option name="closed" value="true" />
-      <created>1693880948217</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1693880948217</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,9 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeira formacao concluida" />
-    <MESSAGE value="a" />
-    <MESSAGE value="criacao pasta desafio" />
-    <option name="LAST_COMMIT_MESSAGE" value="criacao pasta desafio" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeira formacao concluida" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
