@@ -1,6 +1,8 @@
 package segundaFormacao;
 
 import segundaFormacao.calculos.CalculadoraDeTempo;
+import segundaFormacao.calculos.FiltroRecomendacao;
+import segundaFormacao.modelos.Episodio;
 import segundaFormacao.modelos.Filme;
 import segundaFormacao.modelos.Serie;
 
@@ -41,5 +43,14 @@ public class Main {
         calculadora.inclui(filme2);
         calculadora.inclui(serie);
         System.out.println(calculadora.getTempoTotal());
+
+        FiltroRecomendacao filtro = new FiltroRecomendacao();
+        filtro.filtra(filme);
+
+        Episodio episodio = new Episodio();
+        episodio.setNumero(1);
+        episodio.setSerie(serie);
+        episodio.setTotalVisualizacoes(300);
+        filtro.filtra(episodio);
     }
 }
