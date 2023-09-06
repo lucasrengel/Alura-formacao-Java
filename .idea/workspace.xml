@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta quartaFormacao criada">
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Episodio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UquartaFormacao/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Condicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Condicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Desafio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/JogoAdvinhacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/JogoAdvinhacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Leitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Leitura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/OutroLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/OutroLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiraFormacao/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeiroCurso/Temperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/calculos/Classificavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/Classificavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/calculos/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/modelos/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/modelos/Audio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/modelos/MinhasPreferidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/modelos/MinhasPreferidas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/modelos/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/modelos/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/modelos/Podcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/desafio/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/desafio/principal/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/modelos/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segundaFormacao/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/modelos/Titulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta quartaFormacao criada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +65,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\Alura-formacao-Java\src\terceiroCurso" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucas\Faculdade\Code\Java\Alura\src" />
     </key>
@@ -132,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694007073328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pasta quartaFormacao criada">
+      <option name="closed" value="true" />
+      <created>1694019285486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019285486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
