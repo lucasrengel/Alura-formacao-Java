@@ -1,7 +1,7 @@
 package segundoCurso;
 
-import terceiroCurso.calculos.CalculadoraDeTempo;
-import terceiroCurso.calculos.FiltroRecomendacao;
+import segundoCurso.calculos.CalculadoraDeTempo;
+import segundoCurso.calculos.FiltroRecomendacao;
 import segundoCurso.modelos.Episodio;
 import segundoCurso.modelos.Filme;
 import segundoCurso.modelos.Serie;

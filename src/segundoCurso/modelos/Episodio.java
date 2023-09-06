@@ -1,6 +1,6 @@
 package segundoCurso.modelos;
 
-import terceiroCurso.calculos.Classificavel;
+import segundoCurso.calculos.Classificavel;
 
 public class Episodio implements Classificavel {
     private int numero;

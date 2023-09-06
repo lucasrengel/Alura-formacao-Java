@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta quartaFormacao criada" />
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta do terceiro curso criada">
+      <change afterPath="$PROJECT_DIR$/src/segundoCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundoCurso/calculos/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segundoCurso/calculos/FiltroRecomendacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/segundoCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segundoCurso/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +67,13 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/Java/Alura-formacao-Java/src/terceiroCurso",
+    "last_opened_file_path": "F:/Java/Alura-formacao-Java/src/segundoCurso/calculos",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\Alura-formacao-Java\src\segundoCurso\calculos" />
       <recent name="F:\Java\Alura-formacao-Java\src\terceiroCurso" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -113,7 +121,47 @@
       <option name="project" value="LOCAL" />
       <updated>1694019285486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pasta quartaFormacao criada">
+      <option name="closed" value="true" />
+      <created>1694019296154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019296154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019520541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019520541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019546880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019546880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019564296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019564296</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019574563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019574563</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeira formacao concluida" />
+    <MESSAGE value="pasta do terceiro curso criada" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="pasta quartaFormacao criada" />
     <option name="LAST_COMMIT_MESSAGE" value="pasta quartaFormacao criada" />
   </component>
