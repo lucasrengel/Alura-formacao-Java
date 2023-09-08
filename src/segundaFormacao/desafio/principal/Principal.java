@@ -9,6 +9,7 @@ public class Principal{
         Musica minhaMusica = new Musica();
         minhaMusica.setTitulo("'La vida es una'");
         minhaMusica.setArtista("Karol G");
+        Musica musica2 = new Musica();
 
         for(int i = 0; i <= 100; i++){
             minhaMusica.reproduz();
