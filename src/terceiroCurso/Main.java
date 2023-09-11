@@ -6,6 +6,8 @@ import terceiroCurso.modelos.Episodio;
 import terceiroCurso.modelos.Filme;
 import terceiroCurso.modelos.Serie;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
         Filme filme = new Filme();
@@ -52,5 +54,18 @@ public class Main {
         episodio.setSerie(serie);
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
+
+        Filme filme3 = new Filme();
+        filme3.setNome("GranTurismo");
+        filme3.setAnoDeLancamento(2023);
+        filme3.avalia(10);
+        filme3.setDuracaoEmMinutos(135);
+
+        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
+        listaDeFilmes.add(filme);
+        listaDeFilmes.add(filme2);
+        listaDeFilmes.add(filme3);
+        System.out.println("Tamanho da lista de filmes: " + listaDeFilmes.size());
+        System.out.println("Nome do primeiro filme da lista: " + listaDeFilmes.get(1).getNome());
     }
 }
