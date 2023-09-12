@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/terceiroCurso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694138146092</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="primeira formacao concluida">
+      <option name="closed" value="true" />
+      <created>1694471645822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694471645822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -10,54 +10,46 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        Filme filme = new Filme();
-        filme.setNome("Carros");
-        filme.setAnoDeLancamento(2007);
+        Filme filme = new Filme("Carros", 2007);
         filme.setDuracaoEmMinutos(120);
 
 
-        filme.exibeFichaTecnica();
+//       filme.exibeFichaTecnica();
         filme.avalia(9);
         filme.avalia(10);
         filme.avalia(9.5);
-        System.out.println("Total de avaliacoes: " + filme.getTotalDeAvaliacoes());
-        System.out.println(filme.pegaMedia());
-        System.out.println(filme.pegaMedia());
+//       System.out.println("Total de avaliacoes: " + filme.getTotalDeAvaliacoes());
+//       System.out.println(filme.pegaMedia());
+//       System.out.println(filme.pegaMedia());
 
-        System.out.println("Media de avaliacoes do filme: " +filme.pegaMedia());
+//       System.out.println("Media de avaliacoes do filme: " +filme.pegaMedia());
 
-        Serie serie = new Serie();
-        serie.setNome("Carros atraves da estrada");
-        serie.setAnoDeLancamento(2022);
-        serie.exibeFichaTecnica();
+        Serie serie = new Serie("Carros atraves da estrada", 2022);
+//      serie.exibeFichaTecnica();
         serie.setTemporadas(1);
         serie.setEpisodiosPorTemporada(6);
         serie.setMinutosPorEpisodio(10);
-        System.out.println("Duracao maratona Carros atraves da estrada:  " + serie.getDuracaoEmMinutos());
+//      System.out.println("Duracao maratona Carros atraves da estrada:  " + serie.getDuracaoEmMinutos());
 
-        Filme filme2 = new Filme();
-        filme2.setNome("Guardioes da galaxia 3");
-        filme2.setAnoDeLancamento(2023);
+        Filme filme2 = new Filme("Guardioes da galaxia 3", 2023);
         filme2.setDuracaoEmMinutos(164);
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
         calculadora.inclui(filme);
         calculadora.inclui(filme2);
         calculadora.inclui(serie);
-        System.out.println(calculadora.getTempoTotal());
+//      System.out.println(calculadora.getTempoTotal());
 
         FiltroRecomendacao filtro = new FiltroRecomendacao();
-        filtro.filtra(filme);
+//      filtro.filtra(filme);
 
         Episodio episodio = new Episodio();
         episodio.setNumero(1);
         episodio.setSerie(serie);
         episodio.setTotalVisualizacoes(300);
-        filtro.filtra(episodio);
+//      filtro.filtra(episodio);
 
-        Filme filme3 = new Filme();
-        filme3.setNome("GranTurismo");
-        filme3.setAnoDeLancamento(2023);
+        Filme filme3 = new Filme("GranTurismo", 2023);
         filme3.avalia(10);
         filme3.setDuracaoEmMinutos(135);
 
@@ -67,5 +59,7 @@ public class Main {
         listaDeFilmes.add(filme3);
         System.out.println("Tamanho da lista de filmes: " + listaDeFilmes.size());
         System.out.println("Nome do primeiro filme da lista: " + listaDeFilmes.get(1).getNome());
+        System.out.println(listaDeFilmes);
+
     }
 }
