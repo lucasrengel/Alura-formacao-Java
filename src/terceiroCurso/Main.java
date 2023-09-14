@@ -61,6 +61,6 @@ public class Main {
         System.out.println("Nome do primeiro filme da lista: " + listaDeFilmes.get(1).getNome());
         System.out.println("Nome do terceiro filme da lista: " + listaDeFilmes.get(2).getNome());
         System.out.println(listaDeFilmes);
-
+        System.out.println(listaDeFilmes);
     }
 }
