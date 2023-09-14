@@ -59,7 +59,7 @@ public class Main {
         listaDeFilmes.add(filme3);
         System.out.println("Tamanho da lista de filmes: " + listaDeFilmes.size());
         System.out.println("Nome do primeiro filme da lista: " + listaDeFilmes.get(1).getNome());
-        System.out.println("Nome do terceiro filme da lista: " + listaDeFilmes.get(3).getNome());
+        System.out.println("Nome do terceiro filme da lista: " + listaDeFilmes.get(2).getNome());
         System.out.println(listaDeFilmes);
 
     }

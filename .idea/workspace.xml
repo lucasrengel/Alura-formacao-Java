@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="curso em andamento" />
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta do terceiro curso criada">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +24,34 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="asd" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lucasrengel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6b9038a5-3b20-49a0-a092-d9f2dcd10cbc" />
+        <option name="url" value="https://github.com/lucasrengel/Alura-formacao-Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,11 +74,15 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucas/Faculdade/Code/Java/Alura Formacao Java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+    &quot;last_opened_file_path&quot;: &quot;F:/Java/Alura-formacao-Java/src/segundoCurso/calculos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\Alura-formacao-Java\src\segundoCurso\calculos" />
+      <recent name="F:\Java\Alura-formacao-Java\src\terceiroCurso" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lucas\Faculdade\Code\Java\Alura\src" />
     </key>
@@ -80,31 +112,63 @@
       <option name="project" value="LOCAL" />
       <updated>1693710931897</updated>
     </task>
-    <task id="LOCAL-00003" summary="primeira formacao concluida">
+    <task id="LOCAL-00003" summary="pasta quartaFormacao criada">
       <option name="closed" value="true" />
-      <created>1694138146092</created>
+      <created>1694007073328</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1694138146092</updated>
+      <updated>1694007073328</updated>
     </task>
-    <task id="LOCAL-00004" summary="primeira formacao concluida">
+    <task id="LOCAL-00004" summary="pasta quartaFormacao criada">
       <option name="closed" value="true" />
-      <created>1694471645822</created>
+      <created>1694019285486</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1694471645822</updated>
+      <updated>1694019285486</updated>
     </task>
-    <task id="LOCAL-00005" summary="curso em andamento">
+    <task id="LOCAL-00005" summary="pasta quartaFormacao criada">
       <option name="closed" value="true" />
-      <created>1694479248411</created>
+      <created>1694019296154</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1694479248411</updated>
+      <updated>1694019296154</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019520541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019520541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019546880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019546880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019564296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019564296</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694019574563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694019574563</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,10 +183,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="criacao pasta desafio" />
     <MESSAGE value="primeira formacao concluida" />
-    <MESSAGE value="curso em andamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="curso em andamento" />
+    <MESSAGE value="pasta do terceiro curso criada" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="pasta quartaFormacao criada" />
+    <option name="LAST_COMMIT_MESSAGE" value="pasta quartaFormacao criada" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
