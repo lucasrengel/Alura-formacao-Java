@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta do terceiro curso criada">
+      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/calculos/CalculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +166,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694019574563</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694658983569</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694658983569</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pasta do terceiro curso criada">
+      <option name="closed" value="true" />
+      <created>1694659060415</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694659060415</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,10 +198,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primeira formacao concluida" />
-    <MESSAGE value="pasta do terceiro curso criada" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="pasta quartaFormacao criada" />
-    <option name="LAST_COMMIT_MESSAGE" value="pasta quartaFormacao criada" />
+    <MESSAGE value="pasta do terceiro curso criada" />
+    <option name="LAST_COMMIT_MESSAGE" value="pasta do terceiro curso criada" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,4 +1,4 @@
-package terceiroCurso;
+package terceiroCurso.principal;
 
 import terceiroCurso.calculos.CalculadoraDeTempo;
 import terceiroCurso.calculos.FiltroRecomendacao;
