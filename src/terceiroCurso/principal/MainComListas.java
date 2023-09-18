@@ -4,29 +4,43 @@ import terceiroCurso.modelos.Filme;
 import terceiroCurso.modelos.Serie;
 import terceiroCurso.modelos.Titulo;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public class MainComListas {
     public static void main(String[] args) {
-        Filme filme = new Filme("Carros", 2007);
-        filme.avalia(10);
-        Filme filme2 = new Filme("Guardioes da galaxia 3", 2023);
-        filme2.avalia(9);
-        Filme filme3 = new Filme("GranTurismo", 2023);
-        filme3.avalia(8);
-        Serie serie = new Serie("Carros atraves da estrada", 2022);
+        Filme carros = new Filme("Carros", 2007);
+        carros.avalia(10);
+        Filme gdg = new Filme("Guardioes da galaxia 3", 2023);
+        gdg.avalia(9);
+        Filme granTurismo = new Filme("GranTurismo", 2023);
+        granTurismo.avalia(8);
+        Serie atravesDaEstrada = new Serie("Carros atraves da estrada", 2022);
 
 
         ArrayList<Titulo> lista = new ArrayList<>();
-        lista.add(filme);
-        lista.add(filme2);
-        lista.add(filme3);
-        lista.add(serie);
+        lista.add(carros);
+        lista.add(gdg);
+        lista.add(granTurismo);
+        lista.add(atravesDaEstrada);
 
         for (Titulo item: lista){
             System.out.println(item);
-            Filme titulo = (Filme) item;
-            System.out.println(titulo.getClassificacao());
+            if(item instanceof Filme filme){
+                System.out.println("Classificacao: " + filme.getClassificacao());
+            }
         }
+
+        ArrayList<String> buscaArtista = new ArrayList<>();
+        buscaArtista.add("Adam Sandler");
+        buscaArtista.add("Ryan Gosgling");
+        buscaArtista.add("Robert Downey Junior");
+        buscaArtista.add("Erza Miller");
+        System.out.println("\n\n");
+        System.out.println(buscaArtista);
+
+        Collections.sort(buscaArtista);
     }
 }

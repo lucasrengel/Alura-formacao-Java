@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta do terceiro curso criada">
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
