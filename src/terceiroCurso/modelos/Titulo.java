@@ -62,6 +62,6 @@ public class Titulo {
         System.out.println("Nome do filme: " + nome);
         System.out.println("Ano de lancamento: " + anoDeLancamento);
         System.out.println("Duracao em minutos: " + duracaoEmMinutos);
-        System.out.println("Incluido no plano: " + incluidoNoPlano);
+        System.out.println("Incluido no plano:  " + incluidoNoPlano);
     }
 }
