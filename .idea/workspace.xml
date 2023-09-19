@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="pasta do terceiro curso criada">
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="curso em andamento">
+      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +81,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="terceiroCurso.desafio" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Java\Alura-formacao-Java\src\segundoCurso\calculos" />
       <recent name="F:\Java\Alura-formacao-Java\src\terceiroCurso" />
@@ -180,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694659060415</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="curso em andamento">
+      <option name="closed" value="true" />
+      <created>1695078676577</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695078676577</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +216,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="pasta quartaFormacao criada" />
     <MESSAGE value="pasta do terceiro curso criada" />
-    <option name="LAST_COMMIT_MESSAGE" value="pasta do terceiro curso criada" />
+    <MESSAGE value="curso em andamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="curso em andamento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

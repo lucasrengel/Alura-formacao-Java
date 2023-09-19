@@ -49,7 +49,7 @@ public class Serie extends Titulo {
 
     @Override
     public String toString() {
-        return "Serie : " + this.getNome() + " (" + getAnoDeLancamento() + ") ";
+        return "Serie: " + this.getNome() + " (" + this.getAnoDeLancamento() + ")";
     }
 
 }

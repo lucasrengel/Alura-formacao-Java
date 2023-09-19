@@ -1,6 +1,6 @@
 package terceiroCurso.modelos;
 
-public class Titulo {
+public class Titulo implements Comparable<Titulo>{
     private String nome;
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
@@ -63,5 +63,10 @@ public class Titulo {
         System.out.println("Ano de lancamento: " + anoDeLancamento);
         System.out.println("Duracao em minutos: " + duracaoEmMinutos);
         System.out.println("Incluido no plano:  " + incluidoNoPlano);
+    }
+
+    @Override
+    public int compareTo(Titulo outroTitulo) {
+        return this.getNome().compareTo(outroTitulo.getNome());
     }
 }
