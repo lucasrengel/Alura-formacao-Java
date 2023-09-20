@@ -14,7 +14,7 @@ public class Principal {
         System.out.print("Digite a descricao da compra: ");
 
 
-        System.out.print("Digite o valor da compra");
+        System.out.print("Digite o valor da compra ");
 
 
 
