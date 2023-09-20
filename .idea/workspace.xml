@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="curso em andamento">
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" afterDir="false" />
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="desafio em andamento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/principal/MainComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695078676577</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="curso em andamento">
+      <option name="closed" value="true" />
+      <created>1695174839096</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695174839096</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +221,8 @@
     <MESSAGE value="pasta quartaFormacao criada" />
     <MESSAGE value="pasta do terceiro curso criada" />
     <MESSAGE value="curso em andamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="curso em andamento" />
+    <MESSAGE value="desafio em andamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="desafio em andamento" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
