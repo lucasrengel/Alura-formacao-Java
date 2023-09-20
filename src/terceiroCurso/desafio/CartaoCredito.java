@@ -19,9 +19,9 @@ public class CartaoCredito {
             this.saldo -= compra.getValor();
             this.compras.add(compra);
             return true;
-        }else{
-            return false;
         }
+
+        return false;
     }
 
     public double getLimite() {
