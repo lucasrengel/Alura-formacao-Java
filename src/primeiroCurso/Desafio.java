@@ -12,9 +12,9 @@ public class Desafio {
         double valorDigitado = 0;
         int op = 0;
 
-        System.out.println("===========================================");
+        System.out.println("============================================");
         System.out.println("Dados inicias do cliente:\n\nNome: " + nome + "\nTipo de conta: " + tipoConta + "\nSaldo inicial: R$ " + saldo);
-        System.out.println("===========================================");
+        System.out.println("============================================");
 
         while(op != 4){
             exibirMenu();
