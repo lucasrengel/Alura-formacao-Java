@@ -35,7 +35,7 @@ public class Main {
         System.out.println("Duracao maratona Carros atraves da estrada:  " + serie.getDuracaoEmMinutos());
 
         Filme filme2 = new Filme();
-        filme2.setNome("Guardioes da galaxia 3");
+        filme2.setNome("Guardioes da galaxia 3 ");
         filme2.setAnoDeLancamento(2023);
         filme2.setDuracaoEmMinutos(164);
 
