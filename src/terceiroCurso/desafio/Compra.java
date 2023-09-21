@@ -19,7 +19,7 @@ public class Compra implements Comparable<Compra> {
 
     @Override
     public String toString() {
-        return "Compra: descricao = " + descricao + ", valor = " + valor;
+        return "Descricao: " + descricao + ", Valor: " + valor;
     }
 
     @Override

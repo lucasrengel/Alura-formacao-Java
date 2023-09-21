@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="desafio em andamento">
+    <list default="true" id="8dac14a1-40bf-471b-b9b9-2b1462e6da1e" name="Changes" comment="finalizacao do terceiro curso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/CartaoCredito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Compra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/terceiroCurso/desafio/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +199,47 @@
       <option name="project" value="LOCAL" />
       <updated>1695174839096</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="finalizacao do terceiro curso">
+      <option name="closed" value="true" />
+      <created>1695242071927</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242071927</updated>
+    </task>
+    <task id="LOCAL-00015" summary="finalizacao do segundo curso">
+      <option name="closed" value="true" />
+      <created>1695242090720</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242090721</updated>
+    </task>
+    <task id="LOCAL-00016" summary="finalizacao do primeiro curso">
+      <option name="closed" value="true" />
+      <created>1695242104830</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242104830</updated>
+    </task>
+    <task id="LOCAL-00017" summary="finalizacao do quarto curso">
+      <option name="closed" value="true" />
+      <created>1695242127160</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242127160</updated>
+    </task>
+    <task id="LOCAL-00018" summary="finalizacao do terceiro curso">
+      <option name="closed" value="true" />
+      <created>1695242135034</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695242135034</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +260,11 @@
     <MESSAGE value="pasta do terceiro curso criada" />
     <MESSAGE value="curso em andamento" />
     <MESSAGE value="desafio em andamento" />
-    <option name="LAST_COMMIT_MESSAGE" value="desafio em andamento" />
+    <MESSAGE value="finalizacao do segundo curso" />
+    <MESSAGE value="finalizacao do primeiro curso" />
+    <MESSAGE value="finalizacao do quarto curso" />
+    <MESSAGE value="finalizacao do terceiro curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizacao do terceiro curso" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
