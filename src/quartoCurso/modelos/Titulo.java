@@ -1,6 +1,7 @@
 package quartoCurso.modelos;
 
 import com.google.gson.annotations.SerializedName;
+import quartoCurso.excecao.ErroAnoException;
 
 public class Titulo implements Comparable<Titulo>{
     private String nome;
@@ -17,6 +18,9 @@ public class Titulo implements Comparable<Titulo>{
 
     public Titulo(TituloOmdb meuTituloOmbd) {
         this.nome = meuTituloOmbd.title();
+        if(meuTituloOmbd.year().length() > 4){
+            throw new ErroAnoException("Ano nao convertida, pois ha mais de 4 caracteres");
+        }
         this.anoDeLancamento = Integer.valueOf(meuTituloOmbd.year());
         this.duracaoEmMinutos = Integer.valueOf(meuTituloOmbd.runtime().substring(0, 2));
     }
