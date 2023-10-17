@@ -13,7 +13,6 @@ public class Main {
         Filme filme = new Filme("Carros", 2007);
         filme.setDuracaoEmMinutos(120);
 
-
 //       filme.exibeFichaTecnica();
         filme.avalia(9);
         filme.avalia(10);
